@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{"28fS":function(n,u,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return o("81eA")}])},"81eA":function(n,u,o){"use strict";o.r(u);var t=o("rBf2");o.d(u,"default",(function(){return t.default}))}},[["28fS",2,1,6,0,3,4,5,7,8]]]);
